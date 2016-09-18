@@ -1,5 +1,4 @@
 //Programmed by: Giti Omidvar
-//Student ID: 610394068
 
 #include <iostream>
 
