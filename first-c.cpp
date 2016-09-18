@@ -1,5 +1,5 @@
 //Programmed by: Giti Omidvar
-//sdfsdf
+//student at UT
 
 #include <iostream>
 
